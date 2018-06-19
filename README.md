@@ -1,4 +1,2 @@
-Info_Kiosk
-
-
-01/2015: Tourism Information Management Application (A group project made with JAVA and MySQL) Grade: 9/10
+Line-Follower-Robot
+09/2017: Diploma Thesis with Title “Line Follower Robot” (A group project made with Raspberry Pi, Camera and Python) Grade: 9.5/10
